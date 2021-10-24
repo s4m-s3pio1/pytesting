@@ -1,0 +1,7 @@
+admin:admin
+admin:pssword
+admin:admin123
+root:toor
+kali:kali
+root:GHpzDyyNFUBeU
+admin:root
