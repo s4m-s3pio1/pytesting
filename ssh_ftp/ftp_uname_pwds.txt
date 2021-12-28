@@ -1,5 +1,0 @@
-admn:admin
-admin:admin123
-admin:administrator
-msfadmin:msfadmin
-admin123:adminadmin
